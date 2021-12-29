@@ -1,0 +1,22 @@
+________             ______                   _________              
+___  __ \_______________  /___________  __    __  ____/_____ ________
+__  / / /  __ \_  __ \_  //_/  _ \_  / / /    _  /    _  __ `/_  ___/
+_  /_/ // /_/ /  / / /  ,<  /  __/  /_/ /     / /___  / /_/ /_  /    
+/_____/ \____//_/ /_//_/|_| \___/_\__, /      \____/  \__,_/ /_/     
+                                 /____/                              
+
+using donkey v4.2.1 ...
+loading config file: /home/pi/mycar/config.py
+loading personal config over-rides from myconfig.py
+PiCamera loaded.. .warming camera
+Starting Donkey Server...... you can now go to donkeycar.local:8887 to drive your car.
+PWM Steering created
+Init ESC
+PWM Throttle created
+Using catalog /home/pi/mycar/data/catalog_2.catalog
+You can now go to <your hostname.local>:8887 to drive your car.
+New client connected
+New client connected
+New client connected
+Stopping PiCamera
+New client connected
