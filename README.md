@@ -23,6 +23,11 @@ Lastly, to install Tensorflow (with Metal acceleration) follow the instructions 
 
 These instructions may be completely wrong when you're attempting this yourself, but it'll at least get you pointed in the right direction.
 
+### Training Track
+![drying](track/completed.jpg)
+
+This track was created by placing an outer and inner tape boundary, then painting the inner space with black, water-based acrylic paint. The blue tape boundaries 
+were then covered with white masking tape and yellow masking tape was used to create the center line.
 
 ## mycar
 
