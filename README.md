@@ -62,3 +62,10 @@ the car reacting too late, so we switched to the `tflite_linear` model
 
 Project folder for the simulated car
 
+## Credits
+
+Special thanks to the Donkeycar Discord community members listed below, they were invaluable in getting the car operating properly:
+	* Ezward
+	* Maxime Ellerbach
+	* DGarbanzo
+
