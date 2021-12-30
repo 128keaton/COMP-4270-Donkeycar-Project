@@ -3,6 +3,8 @@
 
 [Source Documentation](https://docs.donkeycar.com/)
 
+[Working Demonstration](https://www.youtube.com/watch?v=Dh5u399fyEU)
+
 All models were trained on an M1 Max MacBook Pro using Python 3.9. Average training time was 5-8 minutes. 
 
 ### Python 3.9
